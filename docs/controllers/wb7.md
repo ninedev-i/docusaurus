@@ -11,6 +11,14 @@ import DebugNetworkConnectionHowto from '../partials/debug_network_connection_ho
 # Wiren Board 7
 
 
+<Gallery items={[
+['wb7.4_side.png', 'Контроллер Wiren Board rev. 7.4.1'],
+['wb7.4.3_side.png', 'Контроллер Wiren Board rev. 7.4.3, индикатор совмещён с кнопкой'],
+['wb7.4_system_level.png', 'Логическая блок-схема контроллера'],
+['svg-dashboard.png', 'Пример графического SVG-дашборда'],
+]}
+/>
+
 [Купить в интернет магазине](https://wirenboard.com/ru/product/wiren-board-7/)
 
 Эта статья описывает контроллер Wiren Board 7.4. Описание предыдущих ревизий — Wiren Board 7.2...7.3.
@@ -255,11 +263,11 @@ import DebugNetworkConnectionHowto from '../partials/debug_network_connection_ho
 
 Debug Network — это универсальный разъём и кроме доступа к консоли и веб-интерфейсу, с его помощью можно обновлять прошивку контроллера или удалять все данные и настройки — [подробнее](/docs/debug_network.md).
 
-[//]: # (![Разъём]&#40;@site/static/img/wb7-debug-network.png&#41;)
+[//]: # (![Разъём]&#40;@site/static/img/wb7_debug_network.png&#41;)
 [//]: # (![Веб-интерфейс контроллера и виртуальный накопитель с инструкцией]&#40;@site/static/img/wb7_debug_network_virtual_lan.png&#41;)
 
 <Gallery items={[
-['wb7-debug-network.png', 'Разъём'],
+['wb7_debug_network.png', 'Разъём'],
 ['wb7_debug_network_virtual_lan.png', 'Веб-интерфейс контроллера и виртуальный накопитель с инструкцией'],
 ]}
 />
