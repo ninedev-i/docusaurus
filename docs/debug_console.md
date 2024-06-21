@@ -1,5 +1,7 @@
 ---
+title: Отладочный порт
 hide_title: true
 unlisted: true
 ---
-asd
+
+# Отладочный порт в контроллерах Wiren Board
