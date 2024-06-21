@@ -1,5 +1,4 @@
 ---
-title: Модули ввода-вывода
 sidebar_position: 5
 description: Стыкуются к контроллеру Wiren Board справа через боковой разъём. Совместимы с Wiren Board 5, Wiren Board 6, Wiren Board 7
 ---

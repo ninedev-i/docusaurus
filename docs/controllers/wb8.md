@@ -1,5 +1,4 @@
 ---
-title: Wiren Board 8
 sidebar_position: 2
 description: Новая версия контроллера
 ---

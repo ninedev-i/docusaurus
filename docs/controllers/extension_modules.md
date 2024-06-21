@@ -1,5 +1,4 @@
 ---
-title: Модули расширения
 sidebar_position: 4
 description: Устанавливаются внутрь корпуса контроллера, совместимы с Wiren Board 6 и Wiren Board 7.
 ---

@@ -1,5 +1,4 @@
 ---
-title: Wiren Board Cloud
 sidebar_position: 3
 description: Сервис удалённого администрирования
 ---

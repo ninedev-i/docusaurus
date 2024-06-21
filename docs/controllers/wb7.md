@@ -1,12 +1,11 @@
 ---
-title: Wiren Board 7
 sidebar_position: 1
 description: Мощный универсальный контроллер для любых задач
 ---
 import Gallery from '@site/src/components/Gallery';
-import Safety from '../partials/safety.md';
-import DebugNetworkConnection from '../partials/debug_network_connection.md';
-import DebugNetworkConnectionHowto from '../partials/debug_network_connection_howto.md';
+import Safety from '@site/docs/_partials/safety.md';
+import DebugNetworkConnection from '@site/docs/_partials/debug_network_connection.md';
+import DebugNetworkConnectionHowto from '@site/docs/_partials/debug_network_connection_howto.md';
 
 # Wiren Board 7
 
