@@ -53,7 +53,6 @@ const config: Config = {
       '@docusaurus/preset-classic',
       {
         docs: {
-          exclude: ['partials'],
           sidebarPath: './sidebars.ts',
           // editUrl: 'https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/',
           rehypePlugins: [

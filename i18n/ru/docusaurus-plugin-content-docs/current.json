@@ -2,5 +2,17 @@
   "version.label": {
     "message": "Next",
     "description": "The label for version current"
+  },
+  "sidebar.tutorialSidebar.category.Контроллеры": {
+    "message": "Контроллеры",
+    "description": "The label for category Контроллеры in sidebar tutorialSidebar"
+  },
+  "sidebar.tutorialSidebar.category.Комплектующие": {
+    "message": "Комплектующие",
+    "description": "The label for category Комплектующие in sidebar tutorialSidebar"
+  },
+  "sidebar.tutorialSidebar.category.howto": {
+    "message": "howto",
+    "description": "The label for category howto in sidebar tutorialSidebar"
   }
 }
