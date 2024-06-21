@@ -5,7 +5,7 @@ import * as path from 'node:path';
 const {rehypeExtendedTable} = require('rehype-extended-table');
 const rehypePartials = require('rehype-partials');
 // const {rehypeExtendedTable} = require('rehype-include');
-// const remarkInclude = require('remark-include');
+// import remarkInclude from 'remark-include';
 
 const config: Config = {
   title: 'Wirenboard documentation',
@@ -56,6 +56,9 @@ const config: Config = {
         docs: {
           sidebarPath: './sidebars.ts',
           // editUrl: 'https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/',
+          // remarkPlugins: [
+          //   remarkInclude,
+          // ],
           rehypePlugins: [
             rehypeExtendedTable,
             [rehypePartials, { root: path.resolve(__dirname, 'docs/partials') }]
