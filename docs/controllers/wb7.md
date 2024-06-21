@@ -11,13 +11,6 @@ import DebugNetworkConnectionHowto from '../partials/debug_network_connection_ho
 # Wiren Board 7
 
 
-___
-
-<!-- href='qwe.html' -->
-
-[//]: # (<include src="../partials/safety.md"></include>)
-___
-
 [Купить в интернет магазине](https://wirenboard.com/ru/product/wiren-board-7/)
 
 Эта статья описывает контроллер Wiren Board 7.4. Описание предыдущих ревизий — Wiren Board 7.2...7.3.

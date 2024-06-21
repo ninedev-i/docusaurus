@@ -155,7 +155,7 @@ const config: Config = {
       darkTheme: prismThemes.dracula,
     },
   } satisfies Preset.ThemeConfig,
-  // plugins: [require.resolve('@cmfcmf/docusaurus-search-local')],
+  plugins: [require.resolve('docusaurus-lunr-search')],
 
 };
 
