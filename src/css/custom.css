@@ -6,6 +6,7 @@
   /* Use a darker color to ensure contrast, ideally we don't need important */
   --ifm-breadcrumb-color-active: var(--ifm-color-primary-darker) !important;
   --ifm-menu-color-active: var(--ifm-color-primary-darker) !important;
+  /*--ifm-link-color: #4465f8;*/
 }
 
 html[data-theme='dark'] {
